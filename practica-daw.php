@@ -7,6 +7,8 @@
  * @return int La suma de los dos números.
  */
 function suma($a, $b) {
-    return $a + $b;
+    //modificamos una línea.
+    return $b + $a;
+    //return $a + $b;
 }
 ?>
